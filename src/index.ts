@@ -1,1 +1,0 @@
-let ligado: boolean = false
